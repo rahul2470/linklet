@@ -3,15 +3,9 @@
   "version": "1.0.0",
   "description": "Generate AI summaries and content for articles",
   "main": "src/main.js",
-  "scripts": {
-    "build": "tsc",
-    "start": "node src/main.js"
-  },
+  "type": "commonjs",
   "dependencies": {
     "node-appwrite": "^11.0.0"
-  },
-  "devDependencies": {
-    "@types/node": "^20.0.0",
-    "typescript": "^5.0.0"
   }
 }
+
