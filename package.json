@@ -4,8 +4,10 @@
   "description": "Generate AI summaries and content for articles",
   "main": "src/main.js",
   "type": "commonjs",
+  "scripts": {
+    "build": "echo 'No build required for JavaScript'"
+  },
   "dependencies": {
     "node-appwrite": "^11.0.0"
   }
 }
-
